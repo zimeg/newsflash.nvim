@@ -6,6 +6,12 @@ Open text front and center in a window `80` columns wide.
 12345678901234567890123456789012345678901234567890123456789012345678901234567890
 ```
 
+## Demo
+
+Read along wrapping text:
+
+https://github.com/user-attachments/assets/6daab9cc-f03e-41f9-b90a-452e7c013ada
+
 ## Setup
 
 Install this plugin using a plugin manager of choice and `toggle` the plugin:
