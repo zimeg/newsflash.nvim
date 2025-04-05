@@ -4,6 +4,16 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog][changelog], and this project adheres to [Semantic Versioning][semver].
 
+## [Unreleased]
+
+### Documentation
+
+- Include a demonstration video to showcase motions that open the window.
+
+### Maintenance
+
+- Require changes to the changelog before merging changes of development.
+
 ## [0.1.0] - 2025-04-02
 
 ### Added
@@ -17,4 +27,5 @@ The format is based on [Keep a Changelog][changelog], and this project adheres t
 
 <!-- a collection of releases -->
 
+[Unreleased]: https://github.com/zimeg/newsflash.nvim/compare/v0.1.0...HEAD
 [0.1.0]: https://github.com/zimeg/newsflash.nvim/releases/tag/v0.1.0
