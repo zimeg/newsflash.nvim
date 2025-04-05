@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog][changelog], and this project adheres t
 ### Documentation
 
 - Include a demonstration video to showcase motions that open the window.
+- Map replacement jumps to the start of an actual line in recommendation.
 
 ### Maintenance
 
