@@ -48,4 +48,6 @@ vim.keymap.set("n", "0", "g0")
 vim.keymap.set("v", "0", "g0")
 vim.keymap.set("n", "g$", "$")
 vim.keymap.set("v", "g$", "$")
+vim.keymap.set("n", "g0", "0")
+vim.keymap.set("v", "g0", "0")
 ```
