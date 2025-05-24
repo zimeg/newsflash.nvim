@@ -14,6 +14,7 @@ The format is based on [Keep a Changelog][changelog], and this project adheres t
 ### Maintenance
 
 - Require changes to the changelog before merging changes of development.
+- Use the minimum set of permissions required in pinned workflow actions.
 
 ## [0.1.0] - 2025-04-02
 
