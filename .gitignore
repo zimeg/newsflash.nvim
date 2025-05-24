@@ -1,2 +1,5 @@
 # Development setups
 .direnv
+
+# Build outputs
+result

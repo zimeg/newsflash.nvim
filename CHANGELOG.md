@@ -16,6 +16,7 @@ The format is based on [Keep a Changelog][changelog], and this project adheres t
 - Require changes to the changelog before merging changes of development.
 - Use the minimum set of permissions required in pinned workflow actions.
 - Update dependencies and package with a program on a regular scheduling.
+- Package a nix distribution within the project flake file to share back.
 
 ## [0.1.0] - 2025-04-02
 
