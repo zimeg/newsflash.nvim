@@ -10,6 +10,7 @@ The format is based on [Keep a Changelog][changelog], and this project adheres t
 
 - Include a demonstration video to showcase motions that open the window.
 - Map replacement jumps to the start of an actual line in recommendation.
+- Replace handle with authorship of drafted publication for updates more.
 
 ### Maintenance
 
