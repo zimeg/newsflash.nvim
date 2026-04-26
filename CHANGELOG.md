@@ -13,6 +13,7 @@ The format is based on [Keep a Changelog][changelog], and this project adheres t
 - Replace handle with authorship of drafted publication for updates more.
 
 ### Maintenance
+- Migrate nix dependent workflows to use self hosted runner machines.
 
 - Require changes to the changelog before merging changes of development.
 - Use the minimum set of permissions required in pinned workflow actions.
