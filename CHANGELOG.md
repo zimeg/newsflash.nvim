@@ -15,6 +15,7 @@ The format is based on [Keep a Changelog][changelog], and this project adheres t
 ### Maintenance
 
 - Require changes to the changelog before merging changes of development.
+- Run Nix-based automation on self-hosted runners without installer setup.
 - Use the minimum set of permissions required in pinned workflow actions.
 - Update dependencies and package with a program on a regular scheduling.
 - Package a nix distribution within the project flake file to share back.
