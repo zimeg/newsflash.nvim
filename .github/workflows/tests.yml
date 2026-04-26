@@ -9,7 +9,7 @@ on:
 jobs:
   test:
     name: Opens to the right page
-    runs-on: self-hosted
+    runs-on: tom
     permissions:
       contents: read
     steps:
