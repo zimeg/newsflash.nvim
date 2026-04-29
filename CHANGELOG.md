@@ -20,6 +20,7 @@ The format is based on [Keep a Changelog][changelog], and this project adheres t
 - Package a nix distribution within the project flake file to share back.
 - Overwrite failed attempts to update dependencies after pauses for hour.
 - Prefer self hosted nix installation for test runner package management.
+- Test updates to dependencies in same scripts as the update for concise.
 
 ## [0.1.0] - 2025-04-02
 
