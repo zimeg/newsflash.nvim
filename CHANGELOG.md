@@ -14,6 +14,7 @@ The format is based on [Keep a Changelog][changelog], and this project adheres t
 
 ### Maintenance
 
+- Test dependency updates inline to avoid overhead of multiple pending runner at once.
 - Require changes to the changelog before merging changes of development.
 - Use the minimum set of permissions required in pinned workflow actions.
 - Update dependencies and package with a program on a regular scheduling.
